@@ -4,7 +4,7 @@
 
 ### Developer | Web Enthusiast | Aspiring GSoC Contributor
 
-*I build things that actually work—from frontend UI to backend APIs.*
+*I build things that actually work—from frontend to backend.*
 
 </div>
 
